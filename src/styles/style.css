@@ -8,6 +8,8 @@
   --light: 300;
   --regular: 400;
   --bold: 700;
+
+  scroll-behavior: smooth;
 }
 
 @keyframes float {
