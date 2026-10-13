@@ -22,9 +22,17 @@ O projeto foi construído tomando como base o protótipo visual abaixo:
 
 <div align="center">
   <img src="./src/images/1 - Inicio.jpg" alt="Layout de referência - Seção 1" width="400px"/>
+</div>
+<div align="center">
   <img src="./src/images/2 - Products.jpg" alt="Layout de referência - Seção 2" width="400px"/>
+</div>
+<div align="center">
   <img src="./src/images/3 - Products 2.jpg" alt="Layout de referência - Seção 3" width="400px"/>
+</div>
+<div align="center">
   <img src="./src/images/4 - Detalhes.jpg" alt="Layout de referência - Seção 4" width="400px"/>
+</div>
+<div align="center">
   <img src="./src/images/5 - Rodape.jpg" alt="Layout de referência - Seção 5" width="400px"/>
 </div>
 
