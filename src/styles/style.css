@@ -196,9 +196,8 @@ main {
 .detalhes-container {
   padding: 70px;
   display: flex;
-  gap: 5%;
   flex-direction: row;
-  justify-content: space-between;
+  gap: 7%;
   img {
     border-top-right-radius: 140px;
   }
@@ -206,13 +205,18 @@ main {
 
 .detalhes-text {
   display: flex;
+  max-width: 570px;
   flex-direction: column;
-  margin: 25px;
-  color: #191919;
+  margin-bottom: 25px;
+  margin-top: 25px;
   font-size: 23px;
+  color: #1f1f1f;
+  word-spacing: 0.5px;
+  line-height: 1.5;
   h5 {
     font-size: 58px;
     font-weight: var(--regular);
+    color: #191919;
     margin-bottom: 30px;
   }
 }
@@ -225,7 +229,7 @@ main {
 /* Seção Rodape */
 /* ============ */
 
-#rodape{
+footer{
   background-color: var(--dark-blue);
   padding: 70px 150px;
 }
